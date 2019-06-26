@@ -1,0 +1,9 @@
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\bin\Debug\test.domain.dll
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\bin\Debug\test.domain.pdb
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\bin\Debug\test.api.dll
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\bin\Debug\test.api.pdb
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\obj\Debug\test.domain.csprojAssemblyReference.cache
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\obj\Debug\test.domain.csproj.CoreCompileInputs.cache
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\obj\Debug\test.domain.csproj.CopyComplete
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\obj\Debug\test.domain.dll
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.domain\obj\Debug\test.domain.pdb

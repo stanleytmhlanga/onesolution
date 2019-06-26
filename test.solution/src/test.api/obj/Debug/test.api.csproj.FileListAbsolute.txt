@@ -1,0 +1,6 @@
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\bin\Debug\test.api.dll
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\bin\Debug\test.api.pdb
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\obj\Debug\test.api.csproj.CoreCompileInputs.cache
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\obj\Debug\test.api.dll
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\obj\Debug\test.api.pdb
+C:\Users\stanley\Documents\Projects\SolutionPractice\test.solution\src\test.api\obj\Debug\test.api.csprojAssemblyReference.cache
